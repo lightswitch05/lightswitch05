@@ -1,6 +1,6 @@
 ## Hello, I'm Daniel from [DeveloperDan.com](https://www.github.developerdan.com/)
 
-I'm a Software Engineer with over 10 years professional experiance working at all levels of the stack. Below are a couple of my more recent open source projects. Please feel to [have a discussion](https://github.com/lightswitch05/lightswitch05/discussions/1) with me if you have any questions, or perhaps checkout my website which has more of my historical projects and open source contributions. 
+I'm a Software Engineer with over 10 years professional experiance working at all levels of the stack. Below are a couple of my more recent open source projects. Please feel free to [have a discussion](https://github.com/lightswitch05/lightswitch05/discussions/1) with me if you have any questions, or perhaps checkout my website which has more of my historical projects and open source contributions. 
 
 ### Projects
 
