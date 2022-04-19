@@ -12,3 +12,6 @@ Search popular domain and host formatted blocklists for specific entries. The se
 
 PHP Version Audit is a convenience tool to easily check a given PHP version against a regularly updated list of CVE exploits, new releases, and end of life dates. CVE lists and PHP release information are automatically scanned twice a day (via Github Actions) to ensure any new patches are found quickly and reported. PHP Version Audit was specifcally designed with automation in mind and would fit perfect in a CI/CD pipeline.
 
+[PHP Version Audit](https://www.github.developerdan.com/node-version-audit/)
+
+Node Version Audit is a convenience tool to easily check a given Node.js version against a regularly updated list of CVE exploits, new releases, and end of life dates. CVE lists and Node.js release information are automatically scanned twice a day (via Github Actions) to ensure any new patches are found quickly and reported. Node Version Audit was specifcally designed with automation in mind and would fit perfect in a CI/CD pipeline.
